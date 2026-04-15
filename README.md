@@ -31,12 +31,12 @@ I’m passionate about designing and implementing data pipelines and agentic wor
 
 ## 🗂️ Highlight Projects
 
-> ### [Ophtimus-Ophthalmology-LLM](https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM)
+> ### [Ophthalmology-Domain-Specific-LLM](https://github.com/baeekseung/Ophtimus-Ophthalmology-LLM)
 > Domain-specific LLM for ophthalmology that surpasses GPT-4o performance
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-7B2FBE?style=flat&logoColor=white)     
 
-> ### [AGENTIC-OPHTIMUS](https://github.com/baeekseung/AGENTIC-OPHTIMUS)
+> ### [Multi-Agent-Ophthalmologist](https://github.com/baeekseung/AGENTIC-OPHTIMUS)
 > AI-powered multi-agent system for ophthalmic consultation and diagnosis using LangGraph
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
