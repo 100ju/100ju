@@ -15,30 +15,10 @@ I'm an AI Engineer building AI products and agent systems for real-world service
 
 ## Highlight Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<b>Bid Review Agent</b><br>
-<sub>Enterprise · Private</sub>
-
-Production AI agent that automates bid review for a company — risk and contract analysis, opinion review, bid decisions, and executive Q&A over project documents and analysis results
-
-<code>Python</code> <code>LangGraph</code> <code>FastAPI</code> <code>OpenSearch</code> <code>AWS Bedrock</code> <code>Azure OpenAI</code> <code>Docker</code> <code>Jenkins</code>
-
-</td>
-<td width="50%" valign="top">
-
-<b><a href="https://github.com/100ju/langgraph-azure-rag-agent">LangGraph Azure RAG Agent</a></b><br>
-<sub>Open Source</sub>
-
-Supervisor-based multi-agent RAG system with intent analysis, human-in-the-loop clarification, subtask planning, and RAGAS evaluation
-
-<code>Python</code> <code>LangGraph</code> <code>Azure AI Search</code> <code>Azure Document Intelligence</code> <code>PostgreSQL</code> <code>FastAPI</code> <code>React</code>
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="assets/bid-review-agent.svg" width="49%" alt="Bid Review Agent">
+  <a href="https://github.com/100ju/langgraph-azure-rag-agent"><img src="assets/langgraph-azure-rag-agent.svg" width="49%" alt="LangGraph Azure RAG Agent"></a>
+</p>
 
 ## Contact
 
