@@ -22,7 +22,7 @@ I'm an AI Engineer building AI products and agent systems for real-world service
 <b>Bid Review Agent</b><br>
 <sub>Enterprise · Private</sub>
 
-Production AI agent that automates bid review for a construction company — risk and contract analysis, opinion review, bid decisions, and executive Q&A over project documents and analysis results
+Production AI agent that automates bid review for a company — risk and contract analysis, opinion review, bid decisions, and executive Q&A over project documents and analysis results
 
 <code>Python</code> <code>LangGraph</code> <code>FastAPI</code> <code>OpenSearch</code> <code>AWS Bedrock</code> <code>Azure OpenAI</code> <code>Docker</code> <code>Jenkins</code>
 
